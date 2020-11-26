@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "FontSelector",
+        "repositoryURL": "https://github.com/mszmagic/FontSelector.git",
+        "state": {
+          "branch": null,
+          "revision": "91dbf30f6bf5f5b202e0601f1ad9b6ae11fe469d",
+          "version": "1.0.3"
+        }
+      },
+      {
+        "package": "SwiftUICompatible",
+        "repositoryURL": "https://github.com/mszmagic/SwiftUICompatible.git",
+        "state": {
+          "branch": null,
+          "revision": "176e8002da5890ccd129a0d1308f909c1a179873",
+          "version": "1.0.5"
+        }
+      },
+      {
+        "package": "SwiftUILibrary",
+        "repositoryURL": "https://github.com/mszmagic/SwiftUILibrary.git",
+        "state": {
+          "branch": null,
+          "revision": "e68c704a187d5a6d09dc8addebd06e4d3e7a0a8f",
+          "version": "1.0.6"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
