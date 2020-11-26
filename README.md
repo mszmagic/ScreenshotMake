@@ -51,4 +51,4 @@ In addition to the GNU GPLv3 license: The device frame images (and all other ima
 :page_facing_up: [私の公開されているiOSの記事のリストをカテゴリー別にご覧いただけます (45)](https://mszmagic.com/ioskiji/)
 
 :sparkles: 私が公開したすべてのQiitaプログラミング記事を読むのに使えるApp Clipを作成しました。お持ちのiPhoneからこのコードをスキャンして閲覧できます。
-<img width="100" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/635330/9a0250db-10eb-4077-b2cd-2aecd9182d6d.jpeg">
+<img width="100" src="articleQRCode.jpeg">

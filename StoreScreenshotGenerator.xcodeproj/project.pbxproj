@@ -27,6 +27,7 @@
 /* Begin PBXFileReference section */
 		DA014CD8256F43DC00623113 /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
 		DA014CDB256F4B8600623113 /* social_image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = social_image.png; sourceTree = "<group>"; };
+		DA014CDC256F504E00623113 /* articleQRCode.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = articleQRCode.jpeg; sourceTree = "<group>"; };
 		DA2078C624F307AF0006C2FE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		DA42FD03250192E7003B2ED4 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		DA4B838825117E61007B9B1A /* iPhone8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iPhone8.png; sourceTree = "<group>"; };
@@ -85,6 +86,7 @@
 			isa = PBXGroup;
 			children = (
 				DA014CDB256F4B8600623113 /* social_image.png */,
+				DA014CDC256F504E00623113 /* articleQRCode.jpeg */,
 				DA2078C624F307AF0006C2FE /* README.md */,
 				DA014CD8256F43DC00623113 /* LICENSE.md */,
 				DAA9795124F1A6EC00C4C224 /* StoreScreenshotGenerator */,
